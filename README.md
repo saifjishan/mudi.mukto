@@ -264,3 +264,7 @@ Each trade captures:
     -   Implement blue-green deployment
     -   Setup auto-scaling
     -   Use multiple availability zones
+
+## 📄 License
+
+This project is licensed under the MIT License.
