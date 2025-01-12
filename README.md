@@ -101,194 +101,65 @@ Each trade captures:
 ### 🧑‍💻 User Portals
 
 -   **Farmer Portal (React.js)**
-    -   Inventory management dashboard
-    -   Product listing interface
-    -   Price setting tools
-    -   Transaction history
-    -   Real-time market price updates
 -   **Retailer Portal (React.js)**
-    -   Order management system
-    -   Inventory tracking
-    -   Purchase history
-    -   Price comparison tools
-    -   Supply chain visibility
 -   **Consumer Mobile App (ReactNative)**
-    -   Product price lookup
-    -   Price history visualization
-    -   Retailer comparison
-    -   Transaction verification
-    -   Market price alerts
 -   **Admin Dashboard**
 -   **Admin Portal (React.js)**
-    -   Complete system oversight
-    -   User management
-    -   Transaction monitoring
-    -   System configuration
-    -   Audit logging
 -   **Analytics Dashboard (D3.js)**
-    -   Real-time trade visualization
-    -   Price trend analysis
-    -   Geographic distribution maps
-    -   Market performance metrics
-    -   Custom report generation
 
 ## ⚙️ API Layer
 
 -   **API Gateway (Express.js)**
-    -   Request routing
-    -   Load balancing
-    -   Rate limiting
-    -   Request/response transformation
-    -   API documentation (Swagger)
 -   **Authentication Service**
-    -   JWT/OAuth2 implementation
-    -   Role-based access control
-    -   Session management
-    -   Security audit logging
 -   **WebSocket Server (Socket.io)**
-    -   Real-time data streaming
-    -   Event broadcasting
-    -   Connection management
-    -   Client state synchronization
 
 ## 🛠️ Core Services
 
 ### 🔄 Trading Services
 
 -   **Order Book Service (Node.js)**
-    -   Order management
-    -   Order validation
-    -   Order matching queue management
-    -   Order status tracking
 -   **Trade Matching Engine (Rust)**
-    -   High-performance trade matching
-    -   Price-time priority implementation
-    -   Trade execution
-    -   Market depth maintenance
 -   **Price Discovery Engine (Node.js)**
-    -   Real-time price calculation
-    -   Market trend analysis
-    -   Price validation
-    -   Historical price indexing
 
 ### Support Services
 
 -   **Transaction Manager (Node.js)**
-    -   Payment processing
-    -   Transaction validation
-    -   Receipt generation
-    -   Reconciliation
 -   **Analytics Engine (Python)**
-    -   Market analysis
-    -   Trend detection
-    -   Anomaly identification
-    -   Report generation
-    -   Data aggregation
 -   **Notification Service (Node.js)**
-    -   Alert management
-    -   SMS notifications
-    -   Email notifications
-    -   Push notifications
-    -   Notification preferences
 -   **Reporting Service (Node.js)**
-    -   Custom report generation
-    -   Data export
-    -   Scheduled reports
-    -   Compliance reporting
 
 ## 📊 Data Layer
 
 -   **Main Database (MongoDB)**
-    -   User profiles
-    -   Transaction records
-    -   Product catalogs
-    -   System configurations
-    -   Audit logs
 -   **Redis Cache**
-    -   Session data
-    -   Frequent queries
-    -   Real-time price data
-    -   System state
-    -   API response caching
 -   **Time Series Database (InfluxDB)**
-    -   Price history
-    -   Transaction trends
-    -   Performance metrics
-    -   System analytics
-    -   Market indicators
 -   **Message Queue (RabbitMQ)**
-    -   Event distribution
-    -   Service communication
-    -   Task scheduling
-    -   Load balancing
-    -   Error handling
 
 ## 🔗 External Systems Integration
 
 -   **SMS Gateway**
-    -   Price alerts
-    -   Transaction notifications
-    -   System alerts
-    -   Authentication codes
 -   **Payment Gateway**
-    -   Secure payment processing
-    -   Payment verification
-    -   Refund handling
-    -   Transaction status updates
 -   **Market Price APIs**
-    -   External price validation
-    -   Market trend data
-    -   Competitive analysis
-    -   Price benchmarking
 
 ## 🔒 Security Measures
 
 -   End-to-end encryption for all communications
 -   Role-based access control
--   API request signing
--   Rate limiting
--   SQL injection prevention
--   XSS protection
--   CSRF protection
--   Regular security audits
--   Secure password hashing
--   Two-factor authentication
 
 ## 🚀 Scalability Considerations
 
 -   Horizontal scaling of services
 -   Database sharding
--   Load balancing
--   Caching strategies
--   Microservices architecture
--   Container orchestration
--   Auto-scaling policies
--   Performance monitoring
--   Resource optimization
 
 ## ⛑️ Disaster Recovery
 
 -   Regular automated backups
 -   Multi-region deployment
--   Failover mechanisms
--   Data replication
--   System state monitoring
--   Incident response procedures
--   Business continuity planning
--   Recovery Point Objectives (RPO)
--   Recovery Time Objectives (RTO)
 
 ## ⚙️ Monitoring and Maintenance
 
 -   Real-time system monitoring
 -   Performance metrics tracking
--   Error logging and tracking
--   Automated alerting
--   System health dashboards
--   Capacity planning
--   Regular maintenance schedules
--   Update management
--   Version control
 
 ## 🛠️ Starting Infrastructure Setup
 
