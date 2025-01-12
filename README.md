@@ -9,6 +9,7 @@ The Grocery Supply Chain Transparency Platform is designed to create transparenc
 ## 📝 Description
 
 A user-friendly platform promoting transparency in the grocery supply chain. The web app tracks and displays real-time transaction data between farmers, retailers, and consumers, ensuring fair pricing.
+Consumers can check product prices to avoid overcharging, while farmers and retailers benefit from a transparent system. By exposing price syndication and fostering accountability, the app aims to stabilize grocery markets in Bangladesh and protect consumers from exploitation.
 
 ## ⚙️ System Components
 
