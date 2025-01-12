@@ -53,8 +53,7 @@ To handle any unique market condition, the system is resilient and accessible, w
 
 External integrations include:
 
-- **💳 Payment Gateway:** For Subscription Tiers.
 - **💹 Market Price APIs:** Helps validate pricing information.
 - **💬 SMS Gateway:** Ensures critical information reaches users without internet access.
 
-All components work together to create a transparent, efficient, and fair system, helping to stabilize grocery markets across Bangladesh.
+All components work together to create a transparent, efficient, and fair system, helping to stabilize the product market across any Economy.
