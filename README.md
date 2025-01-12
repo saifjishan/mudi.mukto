@@ -25,6 +25,7 @@ At its core, the platform operates through specialized user interfaces tailored 
 
 
 ![WhatsApp Image 2025-01-12 at 1 52 04 PM](https://github.com/user-attachments/assets/440fc89e-a543-42be-a114-b955e005da8d)
+![WhatsApp Image 2025-01-12 at 1 57 31 PM](https://github.com/user-attachments/assets/682381f4-928c-4b45-8c29-62fc2299bbe9)
 
 
 - **🧑‍🌾 Producers Portal:** Manage inventory, list products, set prices, and track sales transactions.
@@ -58,6 +59,10 @@ The platform integrates several support services:
 Security is implemented at every level, with encrypted communications and a robust authentication service. The API Gateway acts as the single entry point for all client requests, implementing rate limiting and security measures.
 
 To handle any unique market condition, the system is resilient and accessible, working efficiently even with limited internet connectivity using SMS notifications as a backup. The architecture scales horizontally to handle growing user bases and transaction volumes.
+
+
+![image](https://github.com/user-attachments/assets/73018125-6dd9-45b2-8835-68a2e63d1556)
+
 
 External integrations include:
 
