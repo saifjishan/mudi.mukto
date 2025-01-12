@@ -23,7 +23,9 @@ Consumers can check product prices to avoid overcharging, while Producers of X a
 
 At its core, the platform operates through specialized user interfaces tailored to each stakeholder's needs:
 
+
 ![WhatsApp Image 2025-01-12 at 1 52 04 PM](https://github.com/user-attachments/assets/440fc89e-a543-42be-a114-b955e005da8d)
+
 
 - **🧑‍🌾 Producers Portal:** Manage inventory, list products, set prices, and track sales transactions.
 - **🛒 Distributors Portal:** Focuses on purchasing, inventory management, and transaction tracking.
@@ -36,7 +38,9 @@ The real-time trading functionality is powered by a sophisticated backend infras
 - **⚡ Trade Matching Engine (built-in Rust):** Pairs compatible trades for optimal speed.
 - **💰 Price Discovery Engine:** Continuously calculates and validates fair market prices.
 
+
 ![WhatsApp Image 2025-01-12 at 1 53 21 PM](https://github.com/user-attachments/assets/7f780343-e952-480b-bd98-b0070ef0df6d)
+
 
 Data management employs a multi-layered approach:
 
