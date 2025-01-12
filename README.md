@@ -1,8 +1,10 @@
-# 🚀 Mudi - Open Supply Chain 🌾
+![Mudi Mukto System Architecture](https://github.com/user-attachments/assets/afd8e816-ddae-4b2c-bb29-f932e67ec61f)# 🚀 Mudi - Open Supply Chain 🌾
 
 ## 🌟 Overview
 
 The Grocery Supply Chain Transparency Platform is designed to create transparency and fairness in Bangladesh's grocery market through a comprehensive digital ecosystem. This system connects farmers, retailers, consumers, and administrators, providing real-time trading data and market insights.
+
+![Mudi Mukto System Architecture](https://github.com/user-attachments/assets/c3dea477-cd26-494d-bb06-671ab2ada233)
 
 ## 🏗️ System Architecture
 
