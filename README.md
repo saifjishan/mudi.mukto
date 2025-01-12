@@ -40,7 +40,7 @@ To handle Bangladesh's unique market conditions, the system is resilient and acc
 
 External integrations include:
 
-- **💳 Payment Gateway:** Ensures secure financial transactions.
+- **💳 Payment Gateway:** For Subscription Tiers.
 - **💹 Market Price APIs:** Helps validate pricing information.
 - **💬 SMS Gateway:** Ensures critical information reaches users without internet access.
 
