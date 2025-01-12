@@ -1,4 +1,4 @@
-# 🚀 Mudi.Mukto Association - Grocery Supply Chain Transparency Platform 🌾
+# 🚀 Mudi - Open Supply Chain 🌾
 
 ## 🌟 Overview
 
