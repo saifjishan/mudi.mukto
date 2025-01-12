@@ -1,4 +1,4 @@
-![Mudi Mukto System Architecture](https://github.com/user-attachments/assets/afd8e816-ddae-4b2c-bb29-f932e67ec61f)# 🚀 Mudi - Open Supply Chain 🌾
+# 🚀 Mudi - Open Supply Chain 🌾
 
 ## 🌟 Overview
 
