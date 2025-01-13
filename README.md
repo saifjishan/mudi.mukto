@@ -29,7 +29,7 @@ At its core, the platform operates through specialized user interfaces tailored 
 
 - **🧑‍🌾 Producers Portal:** Manage inventory, list products, set prices, and track sales transactions.
 - **🛒 Distributors Portal:** Focuses on purchasing, inventory management, and transaction tracking.
-- **📱 Consumers Wev App:** Check and compare prices, ensuring fair market rates.
+- **📱 Consumers Web App:** Check and compare prices, ensuring fair market rates.
 - **🛡️ Admin Portal:** Provides complete visibility into all market activities and transactions.
 
 The real-time trading functionality is powered by a sophisticated backend infrastructure. When a Producer lists a product or a Distributor makes a purchase, the information flows through a WebSocket server for immediate data transmission. These trades are processed by specialized services:
